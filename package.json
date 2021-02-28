@@ -1,0 +1,22 @@
+{
+  "name": "lec-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the0007mob/kkk.git"
+  },
+  "bin": {
+    "mymkdir": "a.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the0007mob/kkk/issues"
+  },
+  "homepage": "https://github.com/the0007mob/kkk#readme"
+}
